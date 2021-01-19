@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 public class Main {
     public static void main(String[] args) {
         runValidateNumber(4.99);
-        runValidatePhone("+180632383652");
+        runValidatePhone("+380632383652");
 
     }
 
